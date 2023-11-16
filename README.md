@@ -1,5 +1,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/lais-nobre/lais-nobre/ba6aadadb0461efd09dcfa1f270eac9d36b4ac08/header.png"/>
-<p align="center">• Developer | Business Administration | Design • </p>
+<p align="center">Developer | Business Administration | Design </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p> </p> 
 In 2022, I made the decision to transition to the field of technology after completing my undergraduate degree in Business Administration (2019-2022). Technology has always been a passion in my life, from an early age, and it finally took center stage in my academic and professional journey.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -23,7 +24,11 @@ I also possess strong skills in image and video editing. This competence adds a 
 <a href="https://www.linkedin.com/in/laisnobre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 <a href="https://www.behance.net/lais-nobre" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"  target="_blank"></a>
 
-## GitHub:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lais-nobre)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lais-nobre&show_icons=true&count_private=true) 
+## GitHub stats:
+<div>
+<a href= "https://github.com/lais-nobre">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lais-nobre&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lais-nobre&show_icons=true&theme=transparent"/>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
