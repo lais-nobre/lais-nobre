@@ -27,7 +27,7 @@ I also possess strong skills in image and video editing. This competence adds a 
 ## GitHub stats:
 <div>
 <a href= "https://github.com/lais-nobre">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lais-nobre&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lais-nobre&layout=compact&theme=transparent"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lais-nobre&show_icons=true&theme=transparent"/>
 </div>
 
