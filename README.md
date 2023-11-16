@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/lais-nobre/lais-nobre/blob/main/header.png?raw=true"/>
+<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/lais-nobre/lais-nobre/ba6aadadb0461efd09dcfa1f270eac9d36b4ac08/header.png"/>
 <p align="center">• Developer | Business Administration | Design • </p>
 In 2022, I made the decision to transition to the field of technology after completing my undergraduate degree in Business Administration (2019-2022). Technology has always been a passion in my life, from an early age, and it finally took center stage in my academic and professional journey.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
