@@ -1,8 +1,7 @@
-### Hi there, my name is Lais Nobre 👋
-#### Developer | Business Administration | Design
-![Developer | Business Administration | Design](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50a89f53-175f-4b96-9539-0ad3e72e1f82/dbun8js-94bfd268-4e12-4f88-9e72-9b414bbfdeb5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwYTg5ZjUzLTE3NWYtNGI5Ni05NTM5LTBhZDNlNzJlMWY4MlwvZGJ1bjhqcy05NGJmZDI2OC00ZTEyLTRmODgtOWU3Mi05YjQxNGJiZmRlYjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Q-dNXn66Y3Q7c7rUXQOZQH1qgUv0cJDo0RTJweEpqHo)
-
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/lais-nobre/lais-nobre/blob/main/header.png?raw=true"/>
+<p align="center">• Developer | Business Administration | Design • </p>
 In 2022, I made the decision to transition to the field of technology after completing my undergraduate degree in Business Administration (2019-2022). Technology has always been a passion in my life, from an early age, and it finally took center stage in my academic and professional journey.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 My journey into technology began in February 2022 when I enrolled in the Computer Science undergraduate program. This transition marked a relentless pursuit of knowledge in a field that has always fascinated me. Throughout this journey, I have gained solid skills in programming, data analysis, and technological solutions. The opportunity to delve deeply into this universe has been enriching, and I am eager to continue growing as a technology professional.
 
@@ -10,14 +9,21 @@ During my experience in Administration, I developed fundamental skills that cont
 
 I also possess strong skills in image and video editing. This competence adds a creative and artistic touch to my skill set, allowing me to create impactful and engaging visual content.
 
-Skills: JS / HTML / CSS / TYPESCRIPT / REACT
+## Skills:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- 🔭 I’m currently working on this page. 
+## Contacts:
+<div> 
+<a href="https://www.instagram.com/_laisnobre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto:laisepnobre@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/laisnobre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+<a href="https://www.behance.net/lais-nobre" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"  target="_blank"></a>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lais-nobre)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/laisnobre/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_laisnobre/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/laisnobre)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](lais-nobre)  
-
+## GitHub:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lais-nobre)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lais-nobre&show_icons=true&count_private=true)  
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lais-nobre&show_icons=true&count_private=true) 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
