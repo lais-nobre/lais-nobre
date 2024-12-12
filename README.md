@@ -1,10 +1,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/lais-nobre/lais-nobre/ba6aadadb0461efd09dcfa1f270eac9d36b4ac08/header.png"/>
 <p align="center">Developer | Business Administration | Design </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> </p> 
-In 2022, I made the decision to transition to the field of technology after completing my undergraduate degree in Business Administration (2019-2022). Technology has always been a passion in my life, from an early age, and it finally took center stage in my academic and professional journey.
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 In 2022, I decided to transition to the technology field after completing my degree in Business Administration (2019-2022). Technology has always been a passion in my life, a constant interest since childhood, which finally took a prominent place in my academic and professional journey.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 My path toward technology began in February 2022, when I enrolled in a Computer Science college. This transition represented a relentless pursuit of knowledge in a field that has always fascinated me. Throughout this journey, I have been developing solid skills in programming, data analysis, and technological solutions. The opportunity to dive deeply into this universe has been enriching, and I am eager to continue growing as a technology professional.
 
