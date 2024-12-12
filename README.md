@@ -4,11 +4,13 @@
 In 2022, I made the decision to transition to the field of technology after completing my undergraduate degree in Business Administration (2019-2022). Technology has always been a passion in my life, from an early age, and it finally took center stage in my academic and professional journey.
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-My journey into technology began in February 2022 when I enrolled in the Computer Science undergraduate program. This transition marked a relentless pursuit of knowledge in a field that has always fascinated me. Throughout this journey, I have gained solid skills in programming, data analysis, and technological solutions. The opportunity to delve deeply into this universe has been enriching, and I am eager to continue growing as a technology professional.
+In 2022, I decided to transition to the technology field after completing my degree in Business Administration (2019-2022). Technology has always been a passion in my life, a constant interest since childhood, which finally took a prominent place in my academic and professional journey.
 
-During my experience in Administration, I developed fundamental skills that continue to be an asset in my career. I learned the art of organization, strategic planning, and effective management. Working under pressure and communicating clearly and effectively are skills I honed and believe to be valuable in any field.
+My path toward technology began in February 2022, when I enrolled in a Computer Science college. This transition represented a relentless pursuit of knowledge in a field that has always fascinated me. Throughout this journey, I have been developing solid skills in programming, data analysis, and technological solutions. The opportunity to dive deeply into this universe has been enriching, and I am eager to continue growing as a technology professional.
 
-I also possess strong skills in image and video editing. This competence adds a creative and artistic touch to my skill set, allowing me to create impactful and engaging visual content.
+During my experience in Business Administration, I developed fundamental skills that remain a key asset in my career. I learned the art of organization, strategic planning, and effective management. Working under pressure and communicating clearly and effectively are abilities I honed and believe to be valuable in any field.
+
+I also have strong skills in image and video editing. This expertise adds a creative and artistic touch to my skill set, enabling me to create impactful and engaging visual content.
 
 ## Skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,7 +23,6 @@ I also possess strong skills in image and video editing. This competence adds a 
 <div> 
 <a href="https://www.instagram.com/_laisnobre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:laisepnobre@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.behance.net/lais-nobre" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"  target="_blank"></a>
 
 ## GitHub stats:
 <div>
